@@ -145,7 +145,7 @@ padding-right: -40px;
 ```
 Padding auto que centraliza o elemento na horizontal.
 ```
-padding: 2auto;
+padding: auto;
 ```
 
 Lembre-se: Sempre que você aumenta o padding, você está aumentando a largura ou altura do elemento junto. Isso acontece porque a largura é defina pela fórmula: **largura = largura + borda + padding**. O mesmo acontece para a altura, **altura = altura + borda + padding**.
