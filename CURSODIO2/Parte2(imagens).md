@@ -28,7 +28,7 @@ img {
     object-fit: contain;
 }
 ```
-   * **cover**: Funciona similar à **fill**, ou seja, ela faz a imagem cobrir todo o container, porém, não distorce a imagem. Esse valor redimensiona a imagem como **contain** e aproxima a imagem também se for preciso.
+   * **cover**: Funciona similar à **fill**, ou seja, ela faz a imagem cobrir todo o container, porém, não distorce a imagem. Esse valor redimensiona a imagem como **contain** até que a imagem cubra todo o container do elemento.
 ```
 img {
     object-fit: cover;
