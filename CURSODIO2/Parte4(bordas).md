@@ -29,10 +29,25 @@ p {
 ```
 
 * **thin**: Se nós quisermos que a largura da nossa borda seja de **1px**, nós podemos utilizar a palavra reservada **thin**.
+```
+p {
+    border-width: thin;
+}
+```
 
 * **medium**: Se nós quisermos que a largura da nossa borda seja de **3px**, nós podemos utilizar a palavra reservada **medium**.
+```
+p {
+    border-width: medium;
+}
+```
 
 * **thick**: Se nós quisermos que a largura da nossa borda seja de **5px**, nós podemos utilizar a palavra reservada **thick**.
+```
+p {
+    border-width: thick;
+}
+```
 
 Além disso, nós podemos definir uma largura de borda na vertical e na horizontal.
 
