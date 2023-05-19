@@ -55,7 +55,7 @@ Exemplo:
 O problema dessa forma é que se eu tem um padrão de estilo para todas as tags **p**, por exemplo, eu teria que aplicar a formatação em cada uma delas.
 
 
-**CSS interno**: Aqui, nós adicionamos a **tag style**, não atributo **style**. Essa tag é adicionada dentro do *head* da página HTML e dentro dela, inserimos todo o código HTML que queremos.
+**CSS interno**: Aqui, nós adicionamos a **tag style**, não atributo **style**. Essa tag é adicionada dentro do *head* da página HTML e dentro dela, inserimos todo o código CSS que queremos.
 
 Exemplo:
 
